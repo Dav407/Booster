@@ -1,0 +1,56 @@
+/* .first-header{
+    border: 2px dashed grey;
+    border-radius: 15px;
+    padding:  20px 40px 60px 80px;
+    margin: 40px;
+}
+
+p{
+    line-height:10px;
+    color: #333;
+    font-size: 20px;
+    padding: 15px;
+    align-items: center;
+    margin: 40px;
+    border: 2px solid; 
+}
+img{
+    height:150px;
+    width: 100px;
+    border-radius: 50%;
+    border: 2px solid;
+}
+
+.second-header{
+    font-size: 50px;
+    font-weight: 50px;
+    text-decoration: underline;
+    font-style: italic;
+}
+/* 
+li{
+    font-style: italic;
+    font-size: 25px;
+    color: red;
+}
+#second{
+color: #333;
+} */
+/* 
+#first, #second, #third{
+    text-decoration: overline;
+    font-size: 30px;
+    color: magenta;
+}  */
+
+.logo{
+    height: 100px;
+    width: 100px;
+    /* padding: 40px; */
+    
+}
+
+.slide-img{
+    height: 90vh;
+    width: 100%;
+}
